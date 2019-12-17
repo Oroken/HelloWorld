@@ -20,7 +20,8 @@ public class HelloWolrd {
     }
     public static void main(String[] args) {
         // TODO code application logic here
-        sayHiToWorld();
+        //sayHiToWorld();
+	System.out.println("Hello World!\n")
     }
     
 }
